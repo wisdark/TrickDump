@@ -43,6 +43,7 @@ It comes in five flavours:
 - Golang: The [golang-flavour branch](https://github.com/ricardojoserf/TrickDump/tree/golang-flavour)
 - C/C++:  The [c-flavour branch](https://github.com/ricardojoserf/TrickDump/tree/c-flavour)
 - BOF files: The [bof-flavour branch](https://github.com/ricardojoserf/TrickDump/tree/bof-flavour)
+- Crystal: The [crystal-flavour branch](https://github.com/ricardojoserf/TrickDump/tree/crystal-flavour)
 
 
 It will not work if PPL is enabled, ~~the PEB structure is unreadable~~ or the binaries are not compiled as 64-bit. **Update**: Now it is possible to execute the programs without reading the PEB, check the [peb-unreadable branch](https://github.com/ricardojoserf/TrickDump/tree/peb-unreadable) :)
